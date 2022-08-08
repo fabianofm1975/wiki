@@ -17,3 +17,5 @@ print("d3 =", d3)
 # Month abbreviation, day and year	
 d4 = today.strftime("%b-%d-%Y")
 print("d4 =", d4)
+
+# Teste de commit
